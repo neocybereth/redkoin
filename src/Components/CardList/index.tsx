@@ -105,7 +105,6 @@ const CardsList = (): JSX.Element => {
               priceChange={priceChange}
             />
           ))}
-          <div style={{ height: "150px" }}></div>
         </>
       )}
     </div>
