@@ -1,5 +1,3 @@
-# Ava Labs Take Home Test
-
 ## Inside you will find:
 
 - Fully typed React application
